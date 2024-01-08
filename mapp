@@ -1,0 +1,15 @@
+Country,CountryCode2,CountryCode3,Capital City,Latitude,Longitude,Orders
+Australia,AU,AUS,Canberra,-35.2835,149.1281,22
+Brazil,BR,BRA,BrasÃ­lia,-15.7797,-47.9297,4
+Canada,CA,CAN,Ottawa-Gatineau,45.4166,-75.698,2
+Germany,DE,DEU,Berlin,52.5244,13.4105,4
+Denmark,DK,DNK,KÃ¸benhavn (Copenhagen),55.6759,12.5655,2
+Spain,ES,ESP,Madrid,40.4165,-3.7026,4
+France,FR,FRA,Paris,48.8534,2.3488,6
+United Kingdom,GB,GBR,London,51.5085,-0.1257,17
+Ireland,IE,IRL,Dublin,53.3331,-6.2489,1
+Italy,IT,ITA,Roma (Rome),41.8947,12.4811,3
+Netherlands,NL,NLD,Amsterdam,52.374,4.8897,3
+Norway,NO,NOR,Oslo,59.9127,10.7461,1
+Poland,PL,POL,Warszawa (Warsaw),52.2298,21.0118,2
+United States of America,US,USA,"Washington, D.C.",38.8951,-77.0364,22
